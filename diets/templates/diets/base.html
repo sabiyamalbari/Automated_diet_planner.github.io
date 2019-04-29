@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>index</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+        
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container">
+                <a class="navbar-brand" href="{% url 'index' %}">AUTOMATED DIET PLANER</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="{% url 'index' %}">Home <span class="sr-only">(current)</span></a>
+                        </li>
+    
+                        {% if user.is_authenticated %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{% url 'bmi' %}">Calculate Your BMI</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{% url 'calorie' %}">Daily Required Calories</a>
+                        </li>
+                        <li class="nav-item">
+                                <a class="nav-link" href="{% url 'input' %}">Generate Diet Plan</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="{% url 'logout' %}">Logout</a>
+                        </li>
+                        
+                        {% else %}
+                        
+                        <li class="nav-item">
+                                <a class="nav-link" href="{% url 'login_user' %}">signins</a>
+                        </li>
+                        <li class="nav-item">
+                                <a class="nav-link" href="{% url 'signup' %}">Sign Up</a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+        </nav>
+     
+
+        
+    </head>
+
+    <body>
+
+        <br>
+        <div class="container">
+        {% block content %}
+
+        {% endblock content %}
+        </div>
+
+    </body>
+
+</html>

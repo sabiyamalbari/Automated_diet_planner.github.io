@@ -1,0 +1,44 @@
+
+{% extends 'diets/base.html' %}
+{% block content %}
+
+
+<div class="container col-md-4 offset-ms-4">
+     <h2>BMI Calculator </h2>
+
+
+    <form method="POST" action="{% url 'bmi' %}">
+    {% csrf_token %}
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Enter Your Height</span>
+                <input type="float" min="0" max="220" placeholder="Meters" name="height"> 
+            </div>
+        </div>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default">Enter Your Weight</span>  
+                <input type="number" class="form-control"  placeholder="KiloGrams"aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="weight">
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary btn-dark btn-lg btn-lg">Calculate Your BMI</button> &nbsp;
+
+    </form>
+
+    <h2> {{xyz}} {{bmi}} {{ abc}}</h2>
+        
+</div>            
+        
+
+
+
+
+
+
+
+
+
+
+{% endblock content %}

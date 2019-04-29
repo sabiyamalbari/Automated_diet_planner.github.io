@@ -1,0 +1,32 @@
+
+{% extends 'diets/base.html' %}
+
+{% block content %}
+
+
+
+<body>
+<br>
+
+<div class="container">
+
+<div class="container col-md-4 offset-ms-4">
+	<form method="POST">
+	{% csrf_token %} 
+		<div class="form-group">
+			<input type="text" class="form-control" placeholder="Enter Username" name="username">
+		</div>
+		<div class="form-group">
+			<input type="password" class="form-control" placeholder="Enter Password" name="password">
+		</div>
+		<div class="text-center">
+			<button type="submit" class="btn btn-primary btn-dark btn-lg">Submit</button>
+		</div>
+	</form>
+
+<p> Don't Have An Account ? </p>
+<a href="{% url 'signup' %}">Sign Up</a>
+</div>
+</div>
+
+{% endblock content %}

@@ -1,0 +1,22 @@
+
+{% extends 'diets/base.html' %}
+{% block content %}
+<h2>Signup</h2>
+<div class="container">
+  <form method="POST" action="{% url 'signup' %}">
+    {% csrf_token %}
+
+    {% if form.errors %}
+      <p>your form has errors</p>
+    {% endif %}
+
+    {{ form.as_p }}
+
+    <input type="submit" value="signup" class="btn-btn-secondary">
+
+  </form>
+</div>
+
+      
+
+{% endblock content %}

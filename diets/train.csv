@@ -1,0 +1,501 @@
+Gender,Height,Weight,kidney_disease,diabetes,heart_disease,BMI2,status,Activity level,status1,BM,caloire required ,Plan 
+Male,160,96,Yes,No,No,37.5,obese,1.6,sedentary,2112,3379.2,PLAN A
+Male,189,87,No,Yes,Yes,24.355421180818,normal,1.8,lightly active,1914,3445.2,PLAN D
+Female,185,110,Yes,Yes,Yes,32.1402483564646,obese,1.6,sedentary,2420,3872,PLAN E
+Female,195,104,No,No,No,27.3504273504273,overweight,2,active,2288,4576,PLAN H
+Male,149,40,No,No,No,18.0172064321427,underweight,2.2,very active,880,1936,PLAN F
+Male,189,104,No,No,No,29.1145264690238,overweight,1.6,sedentary,2288,3660.8,PLAN F
+Male,147,92,Yes,No,No,42.5748530704799,obese,1.8,lightly active,2024,3643.2,PLAN A
+Male,154,111,Yes,No,Yes,46.8038455051442,obese,1.8,lightly active,2442,4395.6,PLAN H
+Male,174,90,Yes,Yes,Yes,29.7265160523187,overweight,2.2,very active,1980,4356,PLAN H
+Female,166,53,Yes,No,No,19.2335607490202,normal,2,active,1166,2332,PLAN A
+Male,195,68,Yes,No,Yes,17.8829717291256,underweight,2.2,very active,1496,3291.2,PLAN C
+Female,166,68,No,Yes,No,24.6770213383655,normal,2,active,1496,2992,PLAN H
+Female,192,101,Yes,No,No,27.3980034722222,overweight,1.8,lightly active,2222,3999.6,PLAN A
+Male,155,51,No,Yes,Yes,21.2278876170656,normal,1.6,sedentary,1122,1795.2,PLAN D
+Male,191,79,No,No,No,21.655108138483,normal,2,active,1738,3476,PLAN F
+Female,153,107,No,No,Yes,45.7089153744286,obese,2,active,2354,4708,PLAN H
+Female,166,68,No,No,No,24.6770213383655,normal,2,active,1496,2992,PLAN F
+Male,140,129,Yes,No,Yes,65.8163265306123,obese,2.2,very active,2838,6243.6,PLAN H
+Male,144,145,Yes,Yes,No,69.9266975308642,obese,2,active,3190,6380,PLAN H
+Male,172,139,No,No,No,46.9848566792861,obese,2.2,very active,3058,6727.6,PLAN H
+Male,157,110,Yes,Yes,Yes,44.6265568582904,obese,1.6,sedentary,2420,3872,PLAN E
+Female,153,149,No,No,No,63.6507326242044,obese,1.6,sedentary,3278,5244.8,PLAN H
+Female,169,97,No,No,No,33.9623962746402,obese,1.8,lightly active,2134,3841.2,PLAN F
+Male,185,139,No,No,Yes,40.6135865595325,obese,2,active,3058,6116,PLAN H
+Female,172,67,No,Yes,No,22.6473769605192,normal,2,active,1474,2948,PLAN H
+Female,151,64,No,No,No,28.0689443445463,overweight,2.2,very active,1408,3097.6,PLAN F
+Male,190,95,No,No,No,26.3157894736842,overweight,2,active,2090,4180,PLAN H
+Male,187,62,No,No,Yes,17.7299894191999,underweight,1.8,lightly active,1364,2455.2,PLAN G
+Female,163,159,Yes,No,No,59.8441793067108,obese,1.6,sedentary,3498,5596.8,PLAN H
+Male,179,152,No,No,Yes,47.4392185012952,obese,1.6,sedentary,3344,5350.4,PLAN H
+Male,153,121,Yes,Yes,No,51.6895211243539,obese,1.8,lightly active,2662,4791.6,PLAN H
+Male,178,52,Yes,No,Yes,16.4120691831839,underweight,1.6,sedentary,1144,1830.4,PLAN C
+Female,195,65,No,No,No,17.0940170940171,underweight,1.8,lightly active,1430,2574,PLAN F
+Female,160,131,Yes,Yes,No,51.171875,obese,2,active,2882,5764,PLAN H
+Female,157,153,No,Yes,No,62.0714836301675,obese,2.2,very active,3366,7405.2,PLAN H
+Female,189,132,No,No,Yes,36.9530528260687,obese,1.6,sedentary,2904,4646.4,PLAN H
+Female,197,114,Yes,No,Yes,29.3746295962277,overweight,2.2,very active,2508,5517.6,PLAN H
+Male,144,80,Yes,Yes,No,38.5802469135802,obese,1.6,sedentary,1760,2816,PLAN B
+Female,171,152,No,No,No,51.9818063677713,obese,2.2,very active,3344,7356.8,PLAN H
+Female,185,81,No,No,Yes,23.6669101533966,normal,2,active,1782,3564,PLAN G
+Female,175,120,No,No,No,39.1836734693878,obese,1.6,sedentary,2640,4224,PLAN H
+Female,149,108,Yes,No,No,48.6464573667853,obese,2.2,very active,2376,5227.2,PLAN H
+Male,157,56,Yes,Yes,Yes,22.7189744005842,normal,2.2,very active,1232,2710.4,PLAN E
+Male,161,118,Yes,No,No,45.5229350719494,obese,1.6,sedentary,2596,4153.6,PLAN H
+Female,182,126,No,No,No,38.0388841927303,obese,2.2,very active,2772,6098.4,PLAN H
+Male,185,76,Yes,No,Yes,22.2059897735573,normal,1.6,sedentary,1672,2675.2,PLAN C
+Female,188,122,No,No,No,34.5178813942961,obese,2,active,2684,5368,PLAN H
+Male,181,111,Yes,Yes,Yes,33.8817496413418,obese,1.8,lightly active,2442,4395.6,PLAN H
+Male,161,72,Yes,No,No,27.7767061455962,overweight,1.6,sedentary,1584,2534.4,PLAN A
+Male,140,152,Yes,No,No,77.5510204081633,obese,2,active,3344,6688,PLAN H
+Female,168,135,Yes,Yes,No,47.8316326530612,obese,2.2,very active,2970,6534,PLAN H
+Female,176,54,Yes,No,No,17.4328512396694,underweight,2,active,1188,2376,PLAN A
+Male,163,110,Yes,No,Yes,41.4016334826301,obese,2,active,2420,4840,PLAN H
+Male,172,105,No,No,No,35.4921579232017,obese,1.6,sedentary,2310,3696,PLAN F
+Male,196,116,Yes,No,No,30.1957517700958,obese,1.8,lightly active,2552,4593.6,PLAN H
+Female,187,89,No,Yes,Yes,25.4511138436901,overweight,2.2,very active,1958,4307.6,PLAN H
+Male,172,92,Yes,Yes,Yes,31.0978907517577,obese,2,active,2024,4048,PLAN H
+Male,178,127,No,No,No,40.0833228127762,obese,1.6,sedentary,2794,4470.4,PLAN H
+Female,164,70,Yes,No,No,26.0261748958953,overweight,1.6,sedentary,1540,2464,PLAN A
+Male,143,88,No,No,No,43.0338891877353,obese,1.8,lightly active,1936,3484.8,PLAN F
+Female,191,54,Yes,No,No,14.8022258161783,underweight,1.6,sedentary,1188,1900.8,PLAN A
+Female,141,143,Yes,No,Yes,71.9279714300086,obese,2,active,3146,6292,PLAN H
+Male,193,54,Yes,Yes,Yes,14.4970334774088,underweight,2.2,very active,1188,2613.6,PLAN E
+Male,190,83,Yes,No,No,22.9916897506925,normal,1.6,sedentary,1826,2921.6,PLAN A
+Male,175,135,Yes,No,Yes,44.0816326530612,obese,1.8,lightly active,2970,5346,PLAN H
+Female,179,158,No,Yes,No,49.3118192316095,obese,1.8,lightly active,3476,6256.8,PLAN H
+Female,172,96,Yes,No,No,32.4499729583559,obese,2.2,very active,2112,4646.4,PLAN H
+Female,168,59,No,Yes,Yes,20.9041950113379,normal,2,active,1298,2596,PLAN D
+Female,164,82,No,No,No,30.4878048780488,obese,2.2,very active,1804,3968.8,PLAN F
+Female,194,136,No,No,Yes,36.1356148368583,obese,2.2,very active,2992,6582.4,PLAN H
+Female,153,51,No,No,No,21.7864923747277,normal,1.8,lightly active,1122,2019.6,PLAN F
+Male,178,117,Yes,No,Yes,36.9271556621639,obese,1.6,sedentary,2574,4118.4,PLAN H
+Male,141,80,Yes,Yes,No,40.2394245762286,obese,2,active,1760,3520,PLAN B
+Male,180,75,No,No,No,23.1481481481481,normal,2,active,1650,3300,PLAN F
+Female,185,100,Yes,Yes,Yes,29.218407596786,overweight,2,active,2200,4400,PLAN H
+Female,197,154,No,No,No,39.6815171738514,obese,2.2,very active,3388,7453.6,PLAN H
+Male,165,104,No,No,No,38.2001836547291,obese,2,active,2288,4576,PLAN H
+Female,168,90,No,No,Yes,31.8877551020408,obese,2.2,very active,1980,4356,PLAN H
+Female,176,122,No,Yes,No,39.3853305785124,obese,1.6,sedentary,2684,4294.4,PLAN H
+Male,181,51,No,No,No,15.5672903757517,underweight,1.6,sedentary,1122,1795.2,PLAN F
+Male,164,75,No,No,No,27.8851873884593,overweight,1.8,lightly active,1650,2970,PLAN F
+Female,166,140,No,No,Yes,50.8056321672231,obese,2,active,3080,6160,PLAN H
+Female,190,105,Yes,No,No,29.0858725761773,overweight,2,active,2310,4620,PLAN H
+Male,186,118,No,No,Yes,34.1079893629321,obese,2.2,very active,2596,5711.2,PLAN H
+Male,168,123,Yes,Yes,No,43.5799319727891,obese,2,active,2706,5412,PLAN H
+Male,198,50,Yes,No,Yes,12.7538006325885,underweight,1.8,lightly active,1100,1980,PLAN C
+Female,175,141,No,No,No,46.0408163265306,obese,1.6,sedentary,3102,4963.2,PLAN H
+Male,145,117,Yes,Yes,No,55.6480380499406,obese,1.6,sedentary,2574,4118.4,PLAN H
+Female,159,104,No,Yes,No,41.1376132273249,obese,1.8,lightly active,2288,4118.4,PLAN H
+Female,185,140,No,No,Yes,40.9057706355004,obese,1.6,sedentary,3080,4928,PLAN H
+Female,178,154,Yes,No,Yes,48.6049741194294,obese,1.8,lightly active,3388,6098.4,PLAN H
+Female,183,96,Yes,Yes,No,28.6661291767446,overweight,2,active,2112,4224,PLAN H
+Female,194,111,No,No,No,29.4930385800829,overweight,2.2,very active,2442,5372.4,PLAN H
+Male,177,61,No,No,Yes,19.4707778735357,normal,1.6,sedentary,1342,2147.2,PLAN G
+Male,197,119,No,No,No,30.6629905434306,obese,2.2,very active,2618,5759.6,PLAN H
+Female,170,156,Yes,No,No,53.9792387543253,obese,1.6,sedentary,3432,5491.2,PLAN H
+Male,142,69,Yes,Yes,Yes,34.2194009125174,obese,2.2,very active,1518,3339.6,PLAN E
+Male,160,139,Yes,No,No,54.296875,obese,2,active,3058,6116,PLAN H
+Male,195,69,No,No,No,18.1459566074951,underweight,1.6,sedentary,1518,2428.8,PLAN F
+Female,190,50,Yes,No,Yes,13.8504155124654,underweight,2.2,very active,1100,2420,PLAN C
+Male,199,156,No,No,No,39.3929446226105,obese,2.2,very active,3432,7550.4,PLAN H
+Male,154,105,Yes,Yes,Yes,44.2739079102716,obese,1.6,sedentary,2310,3696,PLAN E
+Male,161,155,Yes,No,No,59.797075730103,obese,2.2,very active,3410,7502,PLAN H
+Female,198,145,Yes,No,No,36.9860218345067,obese,1.6,sedentary,3190,5104,PLAN H
+Female,192,140,Yes,Yes,No,37.9774305555556,obese,2,active,3080,6160,PLAN H
+Male,195,126,Yes,No,No,33.1360946745562,obese,1.8,lightly active,2772,4989.6,PLAN H
+Male,166,160,Yes,No,Yes,58.0635796196836,obese,1.6,sedentary,3520,5632,PLAN H
+Male,159,154,No,No,No,60.915311894308,obese,2,active,3388,6776,PLAN H
+Female,181,106,Yes,No,No,32.3555447025427,obese,2.2,very active,2332,5130.4,PLAN H
+Male,149,66,No,Yes,Yes,29.7283906130354,overweight,2,active,1452,2904,PLAN D
+Female,150,70,Yes,Yes,Yes,31.1111111111111,obese,2,active,1540,3080,PLAN E
+Female,146,157,No,No,No,73.6535935447551,obese,1.6,sedentary,3454,5526.4,PLAN H
+Male,190,135,Yes,No,No,37.3961218836565,obese,1.8,lightly active,2970,5346,PLAN H
+Female,192,90,No,No,No,24.4140625,normal,2.2,very active,1980,4356,PLAN H
+Female,177,96,Yes,No,No,30.6425356698267,obese,2,active,2112,4224,PLAN H
+Male,148,60,Yes,No,Yes,27.3922571219869,overweight,1.6,sedentary,1320,2112,Err:509
+Female,165,57,Yes,Yes,Yes,20.9366391184573,normal,1.6,sedentary,1254,2006.4,PLAN E
+Female,146,104,Yes,No,No,48.7896415837868,obese,1.8,lightly active,2288,4118.4,PLAN H
+Male,144,108,Yes,No,Yes,52.0833333333333,obese,1.6,sedentary,2376,3801.6,PLAN C
+Female,176,156,No,Yes,No,50.3615702479339,obese,2,active,3432,6864,PLAN H
+Female,168,87,Yes,No,No,30.8248299319728,obese,2.2,very active,1914,4210.8,PLAN H
+Male,187,122,No,Yes,Yes,34.8880436958449,obese,1.6,sedentary,2684,4294.4,PLAN H
+Male,187,138,No,No,No,39.4635248362836,obese,1.8,lightly active,3036,5464.8,PLAN H
+Female,184,160,No,No,Yes,47.2589792060492,obese,1.8,lightly active,3520,6336,PLAN H
+Female,158,149,No,No,No,59.6859477647813,obese,2.2,very active,3278,7211.6,PLAN H
+Male,158,96,Yes,No,Yes,38.4553757410671,obese,2,active,2112,4224,PLAN H
+Male,194,115,Yes,Yes,No,30.555850781167,obese,2.2,very active,2530,5566,PLAN H
+Female,145,79,No,No,No,37.5743162901308,obese,2.2,very active,1738,3823.6,PLAN F
+Male,182,151,Yes,Yes,Yes,45.5862818500181,obese,1.8,lightly active,3322,5979.6,PLAN H
+Male,154,54,No,No,No,22.7694383538539,normal,1.6,sedentary,1188,1900.8,PLAN F
+Female,168,139,No,No,No,49.2488662131519,obese,2,active,3058,6116,PLAN H
+Female,187,70,No,No,Yes,20.0177299894192,normal,2,active,1540,3080,PLAN G
+Female,158,153,No,Yes,No,61.2882550873257,obese,2,active,3366,6732,PLAN H
+Female,167,110,No,No,No,39.4420739359604,obese,2.2,very active,2420,5324,PLAN H
+Female,171,155,No,No,No,53.0077630723983,obese,2,active,3410,6820,PLAN H
+Female,183,150,No,No,Yes,44.7908268386634,obese,2.2,very active,3300,7260,PLAN H
+Female,190,156,Yes,No,No,43.213296398892,obese,1.6,sedentary,3432,5491.2,PLAN H
+Male,194,108,No,No,Yes,28.6959294292698,overweight,1.6,sedentary,2376,3801.6,PLAN G
+Male,171,147,Yes,Yes,No,50.2718785267262,obese,1.8,lightly active,3234,5821.2,PLAN H
+Male,159,124,Yes,No,Yes,49.0486926941181,obese,2,active,2728,5456,PLAN H
+Female,169,54,No,No,No,18.9069010188719,normal,2,active,1188,2376,PLAN F
+Female,167,85,Yes,Yes,No,30.4779662232421,obese,2.2,very active,1870,4114,PLAN H
+Male,180,149,No,Yes,No,45.9876543209877,obese,2,active,3278,6556,PLAN H
+Male,163,123,No,No,Yes,46.2945538033046,obese,1.8,lightly active,2706,4870.8,PLAN H
+Male,140,79,Yes,No,Yes,40.3061224489796,obese,1.6,sedentary,1738,2780.8,PLAN C
+Male,197,125,Yes,Yes,No,32.2090236800742,obese,1.6,sedentary,2750,4400,PLAN H
+Male,194,106,No,No,No,28.1645233287278,overweight,1.8,lightly active,2332,4197.6,PLAN H
+Female,140,146,No,No,Yes,74.4897959183674,obese,1.6,sedentary,3212,5139.2,PLAN H
+Male,195,98,No,No,No,25.7725180802104,overweight,1.8,lightly active,2156,3880.8,PLAN F
+Female,168,115,Yes,No,No,40.7454648526077,obese,2,active,2530,5060,PLAN H
+Female,196,50,Yes,Yes,Yes,13.0154102457309,underweight,2.2,very active,1100,2420,PLAN E
+Male,140,52,Yes,No,No,26.530612244898,overweight,1.6,sedentary,1144,1830.4,PLAN A
+Female,150,60,No,No,No,26.6666666666667,overweight,2.2,very active,1320,2904,PLAN F
+Female,168,140,Yes,No,Yes,49.6031746031746,obese,1.6,sedentary,3080,4928,PLAN H
+Female,155,111,No,No,No,46.2018730489074,obese,2.2,very active,2442,5372.4,PLAN H
+Female,179,103,Yes,Yes,Yes,32.1463125370619,obese,2,active,2266,4532,PLAN H
+Female,182,84,Yes,No,No,25.3592561284869,overweight,1.6,sedentary,1848,2956.8,PLAN A
+Male,168,160,Yes,No,No,56.6893424036281,obese,2.2,very active,3520,7744,PLAN H
+Female,187,102,Yes,Yes,No,29.1686922702965,overweight,2.2,very active,2244,4936.8,PLAN H
+Male,181,105,Yes,No,No,32.0503037147828,obese,1.6,sedentary,2310,3696,PLAN A
+Male,199,99,Yes,No,Yes,24.9993687028105,overweight,2.2,very active,2178,4791.6,PLAN H
+Female,184,76,No,No,No,22.4480151228733,normal,1.6,sedentary,1672,2675.2,PLAN F
+Male,192,101,Yes,No,No,27.3980034722222,overweight,2,active,2222,4444,PLAN H
+Female,182,143,No,Yes,Yes,43.171114599686,obese,1.8,lightly active,3146,5662.8,PLAN H
+Female,172,111,Yes,Yes,Yes,37.520281233099,obese,1.6,sedentary,2442,3907.2,PLAN E
+Male,181,78,No,No,No,23.8087970452672,normal,2,active,1716,3432,PLAN F
+Male,176,109,Yes,No,No,35.1885330578512,obese,2.2,very active,2398,5275.6,PLAN H
+Female,156,106,No,No,No,43.5568704799474,obese,2,active,2332,4664,PLAN H
+Female,151,67,Yes,No,No,29.3846761106969,overweight,2,active,1474,2948,PLAN A
+Female,188,80,Yes,No,Yes,22.6346763241286,normal,1.6,sedentary,1760,2816,PLAN C
+Male,187,136,Yes,Yes,Yes,38.8915896937287,obese,1.8,lightly active,2992,5385.6,PLAN H
+Male,174,138,Yes,No,No,45.5806579468886,obese,2.2,very active,3036,6679.2,PLAN H
+Male,167,151,Yes,No,Yes,54.1432105848184,obese,2,active,3322,6644,PLAN H
+Female,196,131,No,Yes,No,34.1003748438151,obese,1.6,sedentary,2882,4611.2,PLAN H
+Male,197,149,Yes,No,No,38.3931562266485,obese,1.6,sedentary,3278,5244.8,PLAN H
+Female,185,119,No,Yes,Yes,34.7699050401753,obese,1.8,lightly active,2618,4712.4,PLAN H
+Female,170,102,No,No,No,35.2941176470588,obese,1.6,sedentary,2244,3590.4,PLAN F
+Female,181,94,No,No,Yes,28.6926528494246,overweight,2,active,2068,4136,PLAN H
+Female,166,126,No,No,No,45.7250689505008,obese,2.2,very active,2772,6098.4,PLAN H
+Male,188,100,Yes,No,Yes,28.2933454051607,overweight,1.6,sedentary,2200,3520,PLAN C
+Female,162,74,Yes,Yes,No,28.1969212010364,overweight,1.8,lightly active,1628,2930.4,PLAN B
+Male,177,117,No,No,No,37.3455903476013,obese,1.8,lightly active,2574,4633.2,PLAN H
+Male,162,97,Yes,Yes,Yes,36.9608291418991,obese,2.2,very active,2134,4694.8,PLAN H
+Male,180,73,No,No,No,22.5308641975309,normal,2,active,1606,3212,PLAN F
+Female,192,108,No,No,No,29.296875,overweight,2.2,very active,2376,5227.2,PLAN H
+Male,165,80,No,No,Yes,29.3847566574839,overweight,2.2,very active,1760,3872,PLAN G
+Female,167,135,No,Yes,No,48.4061816486787,obese,1.8,lightly active,2970,5346,PLAN H
+Female,182,84,No,No,No,25.3592561284869,overweight,1.6,sedentary,1848,2956.8,PLAN F
+Female,161,134,No,No,No,51.6955364376374,obese,2,active,2948,5896,PLAN H
+Male,158,95,No,No,Yes,38.054798910431,obese,2,active,2090,4180,PLAN H
+Male,141,85,Yes,No,No,42.7543886122429,obese,2,active,1870,3740,PLAN A
+Male,154,100,No,No,Yes,42.165626581211,obese,2.2,very active,2200,4840,PLAN H
+Male,165,105,Yes,Yes,No,38.5674931129477,obese,2,active,2310,4620,PLAN H
+Female,142,137,Yes,No,Yes,67.9428684784765,obese,2.2,very active,3014,6630.8,PLAN H
+Male,141,94,No,No,No,47.2813238770686,obese,1.6,sedentary,2068,3308.8,PLAN F
+Male,145,108,Yes,Yes,No,51.3674197384067,obese,1.6,sedentary,2376,3801.6,PLAN B
+Male,157,74,No,Yes,No,30.0215018864863,obese,1.8,lightly active,1628,2930.4,PLAN H
+Female,177,117,No,No,Yes,37.3455903476013,obese,2,active,2574,5148,PLAN H
+Female,166,144,Yes,No,Yes,52.2572216577152,obese,2,active,3168,6336,PLAN H
+Male,193,151,Yes,Yes,No,40.5380010201616,obese,2.2,very active,3322,7308.4,PLAN H
+Male,184,57,No,No,No,16.836011342155,underweight,2,active,1254,2508,PLAN F
+Male,179,93,No,No,Yes,29.0253113198714,overweight,1.8,lightly active,2046,3682.8,PLAN G
+Female,156,89,No,No,No,36.5713346482577,obese,1.6,sedentary,1958,3132.8,PLAN F
+Male,182,104,Yes,No,No,31.3971742543171,obese,1.6,sedentary,2288,3660.8,PLAN A
+Male,145,160,Yes,Yes,Yes,76.0998810939358,obese,1.8,lightly active,3520,6336,PLAN H
+Female,150,87,Yes,No,No,38.6666666666667,obese,1.6,sedentary,1914,3062.4,PLAN A
+Male,145,99,No,No,No,47.0868014268728,obese,1.8,lightly active,2178,3920.4,PLAN F
+Female,196,122,Yes,No,Yes,31.7576009995835,obese,2,active,2684,5368,PLAN H
+Male,191,96,No,No,No,26.3150681176503,overweight,2.2,very active,2112,4646.4,PLAN H
+Female,148,67,Yes,Yes,Yes,30.5880204528853,obese,1.6,sedentary,1474,2358.4,PLAN E
+Female,150,84,Yes,No,No,37.3333333333333,obese,2.2,very active,1848,4065.6,PLAN H
+Male,148,155,Yes,No,No,70.763330898466,obese,1.6,sedentary,3410,5456,PLAN H
+Female,153,146,Yes,Yes,No,62.3691742492204,obese,2.2,very active,3212,7066.4,PLAN H
+Female,196,159,Yes,No,No,41.3890045814244,obese,2,active,3498,6996,PLAN H
+Female,185,52,Yes,No,Yes,15.1935719503287,underweight,1.6,sedentary,1144,1830.4,PLAN C
+Female,171,131,No,No,No,44.8001094353818,obese,2.2,very active,2882,6340.4,PLAN H
+Female,143,118,Yes,No,No,57.7045332290088,obese,2.2,very active,2596,5711.2,PLAN H
+Female,142,86,No,Yes,Yes,42.6502678040071,obese,1.6,sedentary,1892,3027.2,PLAN D
+Female,141,126,Yes,Yes,Yes,63.37709370756,obese,2.2,very active,2772,6098.4,PLAN H
+Male,159,109,No,No,No,43.1153830940232,obese,1.6,sedentary,2398,3836.8,PLAN F
+Female,173,82,Yes,No,No,27.3981756824485,overweight,2,active,1804,3608,PLAN A
+Male,183,138,No,No,No,41.2075606915704,obese,1.8,lightly active,3036,5464.8,PLAN H
+Female,152,90,Yes,No,No,38.9542936288089,obese,1.6,sedentary,1980,3168,PLAN A
+Male,178,140,Yes,No,Yes,44.1863401085721,obese,2,active,3080,6160,PLAN H
+Male,188,54,Yes,Yes,Yes,15.2784065187868,underweight,2.2,very active,1188,2613.6,PLAN E
+Female,155,144,Yes,No,No,59.9375650364204,obese,2,active,3168,6336,PLAN H
+Male,166,70,Yes,No,Yes,25.4028160836116,overweight,2,active,1540,3080,PLAN C
+Male,188,123,No,Yes,No,34.8008148483477,obese,1.6,sedentary,2706,4329.6,PLAN H
+Female,171,120,Yes,No,No,41.0382681850826,obese,1.8,lightly active,2640,4752,PLAN H
+Male,179,130,No,Yes,Yes,40.5730158234762,obese,2.2,very active,2860,6292,PLAN H
+Female,186,137,No,No,No,39.5999537518788,obese,2,active,3014,6028,PLAN H
+Female,153,78,No,No,Yes,33.3205177495835,obese,1.6,sedentary,1716,2745.6,PLAN G
+Female,184,86,No,No,No,25.4017013232514,overweight,1.6,sedentary,1892,3027.2,PLAN F
+Female,177,81,Yes,No,Yes,25.8546394714163,overweight,1.8,lightly active,1782,3207.6,PLAN C
+Male,145,78,Yes,Yes,No,37.0986920332937,obese,1.6,sedentary,1716,2745.6,PLAN B
+Male,170,81,No,No,No,28.0276816608997,overweight,2,active,1782,3564,PLAN F
+Male,181,141,Yes,Yes,Yes,43.0389792741369,obese,2.2,very active,3102,6824.4,PLAN H
+Male,165,155,No,No,No,56.9329660238751,obese,1.6,sedentary,3410,5456,PLAN H
+Female,174,65,No,No,No,21.4691504822301,normal,1.8,lightly active,1430,2574,PLAN F
+Female,146,110,No,No,Yes,51.6044285982361,obese,1.8,lightly active,2420,4356,PLAN H
+Male,178,85,No,Yes,No,26.8274207802045,overweight,2.2,very active,1870,4114,PLAN H
+Male,166,61,No,No,No,22.1367397300044,normal,2,active,1342,2684,PLAN F
+Male,191,62,No,No,No,16.9951481593158,underweight,2.2,very active,1364,3000.8,PLAN F
+Female,177,155,No,No,Yes,49.4749273835743,obese,2.2,very active,3410,7502,PLAN H
+Female,183,50,Yes,No,No,14.9302756128878,underweight,1.8,lightly active,1100,1980,PLAN A
+Male,151,114,No,No,Yes,49.9978071137231,obese,1.6,sedentary,2508,4012.8,PLAN H
+Male,182,98,Yes,Yes,No,29.585798816568,overweight,2,active,2156,4312,PLAN H
+Female,142,159,Yes,No,Yes,78.8534021027574,obese,2,active,3498,6996,PLAN H
+Female,188,90,No,No,No,25.4640108646446,overweight,2,active,1980,3960,PLAN F
+Male,161,89,Yes,Yes,No,34.3350950966398,obese,2.2,very active,1958,4307.6,PLAN H
+Male,153,70,No,Yes,No,29.9030287496262,obese,2,active,1540,3080,PLAN H
+Male,140,143,No,No,Yes,72.9591836734694,obese,2.2,very active,3146,6921.2,PLAN H
+Male,169,141,Yes,No,Yes,49.3680193270544,obese,1.6,sedentary,3102,4963.2,PLAN H
+Female,162,159,Yes,Yes,No,60.5852766346593,obese,1.6,sedentary,3498,5596.8,PLAN H
+Male,183,147,No,No,No,43.8950103018902,obese,1.8,lightly active,3234,5821.2,PLAN H
+Female,162,58,No,No,Yes,22.1002895900015,normal,2,active,1276,2552,PLAN G
+Female,172,109,No,No,No,36.8442401297999,obese,2,active,2398,4796,PLAN H
+Female,150,119,Yes,No,No,52.8888888888889,obese,2.2,very active,2618,5759.6,PLAN H
+Female,169,145,Yes,Yes,Yes,50.7685305136375,obese,2,active,3190,6380,PLAN H
+Female,184,132,Yes,No,No,38.9886578449905,obese,1.8,lightly active,2904,5227.2,PLAN H
+Male,159,104,No,No,No,41.1376132273249,obese,1.6,sedentary,2288,3660.8,PLAN F
+Male,163,131,Yes,No,Yes,49.3055816929504,obese,1.6,sedentary,2882,4611.2,PLAN H
+Male,156,137,No,No,No,56.2952005259698,obese,1.8,lightly active,3014,5425.2,PLAN H
+Female,157,52,Yes,Yes,Yes,21.0961905148282,normal,1.6,sedentary,1144,1830.4,PLAN E
+Male,147,84,Yes,No,No,38.8726919339164,obese,1.8,lightly active,1848,3326.4,PLAN A
+Male,141,86,Yes,No,No,43.2573814194457,obese,2,active,1892,3784,PLAN A
+Male,173,139,Yes,Yes,No,46.443249022687,obese,2.2,very active,3058,6727.6,PLAN H
+Male,154,145,Yes,No,No,61.1401585427559,obese,1.6,sedentary,3190,5104,PLAN H
+Male,168,148,Yes,No,Yes,52.437641723356,obese,2.2,very active,3256,7163.2,PLAN H
+Male,168,50,No,No,No,17.7154195011338,underweight,1.6,sedentary,1100,1760,PLAN F
+Male,145,130,Yes,No,No,61.8311533888228,obese,2.2,very active,2860,6292,PLAN H
+Male,152,103,No,Yes,Yes,44.5810249307479,obese,2,active,2266,4532,PLAN H
+Female,187,121,Yes,Yes,Yes,34.6020761245675,obese,1.6,sedentary,2662,4259.2,PLAN H
+Female,163,57,No,No,No,21.4535737137265,normal,2.2,very active,1254,2758.8,PLAN F
+Male,178,83,Yes,No,No,26.1961873500821,overweight,2.2,very active,1826,4017.2,PLAN H
+Female,187,94,No,No,No,26.8809517000772,overweight,1.6,sedentary,2068,3308.8,PLAN F
+Female,179,114,Yes,No,No,35.5794138759714,obese,2.2,very active,2508,5517.6,PLAN H
+Male,190,80,Yes,No,Yes,22.1606648199446,normal,1.6,sedentary,1760,2816,PLAN C
+Male,172,75,Yes,Yes,Yes,25.3515413737155,overweight,2,active,1650,3300,PLAN E
+Male,188,57,Yes,No,No,16.1272068809416,underweight,1.8,lightly active,1254,2257.2,PLAN A
+Male,193,65,Yes,No,Yes,17.4501328894735,underweight,1.6,sedentary,1430,2288,PLAN C
+Female,147,126,No,Yes,No,58.3090379008746,obese,2,active,2772,5544,PLAN H
+Female,147,94,Yes,No,No,43.5003933546208,obese,2.2,very active,2068,4549.6,PLAN H
+Male,166,107,No,Yes,Yes,38.8300188706634,obese,2,active,2354,4708,PLAN H
+Female,192,139,No,No,No,37.7061631944444,obese,2,active,3058,6116,PLAN H
+Male,181,139,No,No,Yes,42.4284972986173,obese,1.6,sedentary,3058,4892.8,PLAN H
+Male,150,74,No,No,No,32.8888888888889,obese,1.8,lightly active,1628,2930.4,PLAN F
+Male,178,160,Yes,No,Yes,50.4986744097967,obese,2.2,very active,3520,7744,PLAN H
+Female,156,52,Yes,Yes,No,21.3675213675214,normal,2,active,1144,2288,PLAN B
+Male,149,100,No,No,No,45.0430160803567,obese,1.6,sedentary,2200,3520,PLAN F
+Male,156,74,Yes,Yes,Yes,30.4076265614727,obese,1.6,sedentary,1628,2604.8,PLAN E
+Male,183,105,No,No,No,31.3535787870644,obese,1.8,lightly active,2310,4158,PLAN H
+Female,162,68,No,No,No,25.9106843468983,overweight,1.6,sedentary,1496,2393.6,PLAN F
+Female,165,83,No,No,Yes,30.4866850321396,obese,2,active,1826,3652,PLAN G
+Female,168,143,No,Yes,No,50.6660997732426,obese,2.2,very active,3146,6921.2,PLAN H
+Male,160,156,No,No,No,60.9375,obese,1.6,sedentary,3432,5491.2,PLAN H
+Female,169,88,No,No,No,30.8112461048283,obese,1.8,lightly active,1936,3484.8,PLAN F
+Female,140,76,No,No,Yes,38.7755102040816,obese,1.8,lightly active,1672,3009.6,PLAN G
+Female,187,92,Yes,No,No,26.3090165575224,overweight,2.2,very active,2024,4452.8,PLAN H
+Male,151,82,No,No,Yes,35.9633349414499,obese,2,active,1804,3608,PLAN G
+Female,186,140,Yes,Yes,No,40.4671060238178,obese,2.2,very active,3080,6776,PLAN H
+Male,182,108,Yes,No,Yes,32.6047578794831,obese,2.2,very active,2376,5227.2,PLAN H
+Male,188,81,No,No,No,22.9176097781802,normal,1.8,lightly active,1782,3207.6,PLAN F
+Male,179,110,Yes,Yes,No,34.3310133890952,obese,1.6,sedentary,2420,3872,PLAN B
+Female,156,126,No,Yes,No,51.7751479289941,obese,2,active,2772,5544,PLAN H
+Male,188,114,No,No,Yes,32.2544137618832,obese,2,active,2508,5016,PLAN H
+Male,183,153,Yes,No,Yes,45.6866433754367,obese,2,active,3366,6732,PLAN H
+Male,144,88,Yes,Yes,No,42.4382716049383,obese,2.2,very active,1936,4259.2,PLAN H
+Male,196,69,No,No,No,17.9612661391087,underweight,2,active,1518,3036,PLAN F
+Male,171,141,No,No,Yes,48.2199651174721,obese,2.2,very active,3102,6824.4,PLAN H
+Male,171,147,No,No,No,50.2718785267262,obese,1.6,sedentary,3234,5174.4,PLAN H
+Female,180,156,Yes,No,No,48.1481481481482,obese,1.6,sedentary,3432,5491.2,PLAN H
+Male,191,146,Yes,Yes,Yes,40.0208327622598,obese,1.8,lightly active,3212,5781.6,PLAN H
+Female,179,67,Yes,No,No,20.9107081551762,normal,2,active,1474,2948,PLAN A
+Female,180,60,No,No,No,18.5185185185185,normal,2,active,1320,2640,PLAN F
+Female,154,132,Yes,No,Yes,55.6586270871985,obese,2.2,very active,2904,6388.8,PLAN H
+Male,188,99,No,No,No,28.0104119511091,overweight,2,active,2178,4356,PLAN H
+Male,142,135,Yes,Yes,Yes,66.9510017853601,obese,1.8,lightly active,2970,5346,PLAN H
+Male,170,95,Yes,No,No,32.8719723183391,obese,1.6,sedentary,2090,3344,PLAN A
+Male,152,141,Yes,No,No,61.0283933518006,obese,1.6,sedentary,3102,4963.2,PLAN H
+Female,190,118,Yes,Yes,No,32.6869806094183,obese,1.8,lightly active,2596,4672.8,PLAN H
+Female,181,111,Yes,No,No,33.8817496413418,obese,1.6,sedentary,2442,3907.2,PLAN A
+Male,153,104,Yes,No,Yes,44.4273569994447,obese,1.8,lightly active,2288,4118.4,PLAN H
+Male,187,140,No,No,No,40.0354599788384,obese,2,active,3080,6160,PLAN H
+Female,144,66,Yes,No,No,31.8287037037037,obese,2.2,very active,1452,3194.4,PLAN A
+Female,148,54,No,Yes,Yes,24.6530314097882,normal,1.6,sedentary,1188,1900.8,PLAN D
+Female,199,92,Yes,Yes,Yes,23.2317365723088,normal,2.2,very active,2024,4452.8,PLAN H
+Female,167,85,No,No,No,30.4779662232421,obese,1.6,sedentary,1870,2992,PLAN F
+Female,164,71,Yes,No,No,26.3979773944081,overweight,2.2,very active,1562,3436.4,PLAN A
+Female,185,102,No,No,No,29.8027757487217,overweight,2,active,2244,4488,PLAN H
+Female,164,160,Yes,No,No,59.4883997620464,obese,1.6,sedentary,3520,5632,PLAN H
+Male,142,71,Yes,No,Yes,35.2112676056338,obese,2.2,very active,1562,3436.4,PLAN C
+Male,165,68,Yes,Yes,Yes,24.9770431588613,overweight,2.2,very active,1496,3291.2,PLAN E
+Female,172,62,Yes,No,No,20.9572742022715,normal,1.6,sedentary,1364,2182.4,PLAN A
+Female,157,56,Yes,No,Yes,22.7189744005842,normal,2.2,very active,1232,2710.4,PLAN C
+Male,155,57,No,Yes,No,23.7252861602497,normal,1.6,sedentary,1254,2006.4,PLAN H
+Female,167,153,Yes,No,No,54.8603392018359,obese,2,active,3366,6732,PLAN H
+Female,164,126,No,Yes,Yes,46.8471148126116,obese,1.8,lightly active,2772,4989.6,PLAN H
+Female,189,125,No,No,No,34.9934212368075,obese,1.6,sedentary,2750,4400,PLAN H
+Female,161,145,No,No,Yes,55.939199876548,obese,2,active,3190,6380,PLAN H
+Female,155,71,No,No,No,29.5525494276795,overweight,2.2,very active,1562,3436.4,PLAN F
+Female,171,118,Yes,No,Yes,40.3542970486646,obese,2,active,2596,5192,PLAN H
+Female,154,92,Yes,Yes,No,38.7923764547141,obese,2,active,2024,4048,PLAN H
+Male,179,83,No,No,No,25.9043101026809,overweight,1.6,sedentary,1826,2921.6,PLAN F
+Male,170,115,Yes,Yes,Yes,39.7923875432526,obese,1.8,lightly active,2530,4554,PLAN H
+Female,184,106,No,No,No,31.3090737240076,obese,2.2,very active,2332,5130.4,PLAN H
+Female,191,68,No,No,No,18.639839916669,normal,2,active,1496,2992,PLAN F
+Male,162,58,No,No,Yes,22.1002895900015,normal,1.6,sedentary,1276,2041.6,PLAN G
+Male,178,138,No,Yes,No,43.5551066784497,obese,1.6,sedentary,3036,4857.6,PLAN H
+Female,157,60,No,No,No,24.3417582863402,normal,1.8,lightly active,1320,2376,PLAN F
+Male,184,83,No,No,No,24.515595463138,normal,1.6,sedentary,1826,2921.6,PLAN F
+Male,197,88,No,No,Yes,22.6751526707722,normal,2,active,1936,3872,PLAN G
+Female,160,51,Yes,No,No,19.921875,normal,2.2,very active,1122,2468.4,PLAN A
+Male,184,153,No,No,Yes,45.1913988657845,obese,1.6,sedentary,3366,5385.6,PLAN H
+Male,190,50,Yes,Yes,No,13.8504155124654,underweight,1.8,lightly active,1100,1980,PLAN B
+Male,174,90,Yes,No,Yes,29.7265160523187,overweight,1.8,lightly active,1980,3564,PLAN C
+Female,189,124,No,No,No,34.713473866913,obese,2.2,very active,2728,6001.6,PLAN H
+Female,186,143,Yes,Yes,No,41.3342582957567,obese,2,active,3146,6292,PLAN H
+Female,180,58,No,Yes,No,17.9012345679012,underweight,2.2,very active,1276,2807.2,PLAN H
+Female,186,148,No,No,Yes,42.7795120823217,obese,2.2,very active,3256,7163.2,PLAN H
+Female,193,61,Yes,No,Yes,16.3762785578136,underweight,1.8,lightly active,1342,2415.6,PLAN C
+Male,161,103,Yes,Yes,No,39.7361212916168,obese,1.6,sedentary,2266,3625.6,PLAN B
+Female,151,158,No,No,No,69.2952063505987,obese,2,active,3476,6952,PLAN H
+Female,195,147,No,No,Yes,38.6587771203156,obese,2,active,3234,6468,PLAN H
+Female,184,152,No,No,No,44.8960302457467,obese,2,active,3344,6688,PLAN H
+Male,141,80,Yes,No,No,40.2394245762286,obese,2.2,very active,1760,3872,PLAN A
+Female,185,94,Yes,Yes,Yes,27.4653031409788,overweight,2,active,2068,4136,PLAN H
+Female,186,127,Yes,No,No,36.709446178749,obese,2.2,very active,2794,6146.8,PLAN H
+Male,142,131,No,No,No,64.9672683991272,obese,1.6,sedentary,2882,4611.2,PLAN H
+Female,147,67,Yes,No,Yes,31.0055995187191,obese,1.6,sedentary,1474,2358.4,PLAN C
+Male,151,62,No,No,No,27.1917898337792,overweight,1.8,lightly active,1364,2455.2,PLAN F
+Female,160,124,Yes,Yes,Yes,48.4375,obese,2,active,2728,5456,PLAN H
+Male,185,60,Yes,No,No,17.5310445580716,underweight,2,active,1320,2640,PLAN A
+Female,163,63,Yes,No,No,23.7118446309609,normal,2.2,very active,1386,3049.2,PLAN A
+Male,174,95,Yes,Yes,No,31.3779891663364,obese,2,active,2090,4180,PLAN H
+Female,150,144,Yes,No,No,64,obese,1.8,lightly active,3168,5702.4,PLAN H
+Male,142,91,Yes,No,Yes,45.1299345367983,obese,1.6,sedentary,2002,3203.2,PLAN C
+Male,178,142,No,No,No,44.8175735386946,obese,1.6,sedentary,3124,4998.4,PLAN H
+Female,154,96,Yes,No,No,40.4790015179626,obese,1.8,lightly active,2112,3801.6,PLAN A
+Male,176,87,No,Yes,Yes,28.0862603305785,overweight,1.6,sedentary,1914,3062.4,PLAN D
+Male,159,120,Yes,Yes,Yes,47.4664768007595,obese,1.8,lightly active,2640,4752,PLAN H
+Male,191,62,No,No,No,16.9951481593158,underweight,2,active,1364,2728,PLAN F
+Male,177,117,Yes,No,No,37.3455903476013,obese,2.2,very active,2574,5662.8,PLAN H
+Male,151,154,No,No,No,67.5408973290645,obese,1.6,sedentary,3388,5420.8,PLAN H
+Female,182,149,Yes,No,No,44.9824900374351,obese,2.2,very active,3278,7211.6,PLAN H
+Female,197,72,Yes,No,Yes,18.5523976397227,normal,1.6,sedentary,1584,2534.4,PLAN C
+Male,146,138,Yes,Yes,Yes,64.7401013323325,obese,2.2,very active,3036,6679.2,PLAN H
+Female,160,83,Yes,No,No,32.421875,obese,2,active,1826,3652,PLAN A
+Female,157,66,Yes,No,Yes,26.7759341149742,overweight,1.6,sedentary,1452,2323.2,PLAN C
+Female,150,50,No,Yes,No,22.2222222222222,normal,2.2,very active,1100,2420,PLAN H
+Female,167,58,Yes,No,No,20.7967298935064,normal,2.2,very active,1276,2807.2,PLAN A
+Female,180,70,No,Yes,Yes,21.6049382716049,normal,1.6,sedentary,1540,2464,PLAN D
+Female,183,76,No,No,No,22.6940189315895,normal,2.2,very active,1672,3678.4,PLAN F
+Female,183,87,No,No,Yes,25.9786795664248,overweight,1.6,sedentary,1914,3062.4,PLAN G
+Female,152,154,No,No,No,66.6551246537396,obese,2,active,3388,6776,PLAN H
+Female,164,71,Yes,No,Yes,26.3979773944081,overweight,1.8,lightly active,1562,2811.6,PLAN C
+Male,187,96,Yes,Yes,No,27.452886842632,overweight,1.6,sedentary,2112,3379.2,PLAN B
+Male,169,136,No,No,No,47.6173803438255,obese,2,active,2992,5984,PLAN H
+Female,149,61,Yes,Yes,Yes,27.4762398090176,overweight,2.2,very active,1342,2952.4,PLAN E
+Male,163,137,No,No,No,51.5638526101848,obese,2,active,3014,6028,PLAN H
+Female,195,104,No,No,No,27.3504273504273,overweight,2,active,2288,4576,PLAN H
+Male,174,107,No,No,Yes,35.3415246399789,obese,1.6,sedentary,2354,3766.4,PLAN G
+Male,182,70,No,Yes,No,21.1327134404057,normal,1.8,lightly active,1540,2772,PLAN H
+Male,169,110,No,No,No,38.5140576310353,obese,2.2,very active,2420,5324,PLAN H
+Male,193,130,No,No,No,34.9002657789471,obese,2,active,2860,5720,PLAN H
+Male,148,141,No,No,Yes,64.3718042366691,obese,1.6,sedentary,3102,4963.2,PLAN H
+Male,186,68,Yes,No,No,19.6554514972829,normal,1.6,sedentary,1496,2393.6,PLAN A
+Male,165,143,No,No,Yes,52.5252525252525,obese,1.8,lightly active,3146,5662.8,PLAN H
+Female,146,123,Yes,Yes,No,57.7031337962094,obese,1.6,sedentary,2706,4329.6,PLAN H
+Female,166,133,Yes,No,Yes,48.265350558862,obese,2,active,2926,5852,PLAN H
+Male,179,56,No,No,No,17.4776068162667,underweight,2.2,very active,1232,2710.4,PLAN F
+Female,177,101,Yes,Yes,No,32.2385010692968,obese,1.6,sedentary,2222,3555.2,PLAN B
+Male,181,154,No,Yes,No,47.0071121150148,obese,1.8,lightly active,3388,6098.4,PLAN H
+Female,161,154,No,No,Yes,59.4112881447475,obese,1.8,lightly active,3388,6098.4,PLAN H
+Female,157,103,Yes,No,Yes,41.7866850582174,obese,2.2,very active,2266,4985.2,PLAN H
+Female,169,98,Yes,Yes,No,34.312524071286,obese,2,active,2156,4312,PLAN H
+Female,152,114,No,No,No,49.3421052631579,obese,2.2,very active,2508,5517.6,PLAN H
+Female,162,64,No,No,Yes,24.3865264441396,normal,2.2,very active,1408,3097.6,PLAN G
+Male,162,130,No,No,No,49.5351318396586,obese,1.8,lightly active,2860,5148,PLAN H
+Female,177,61,Yes,No,No,19.4707778735357,normal,1.6,sedentary,1342,2147.2,PLAN A
+Female,195,61,Yes,Yes,Yes,16.0420775805391,underweight,2,active,1342,2684,PLAN E
+Male,140,146,Yes,No,No,74.4897959183674,obese,2,active,3212,6424,PLAN H
+Female,186,146,No,No,No,42.2014105676957,obese,2,active,3212,6424,PLAN H
+Female,178,107,Yes,No,Yes,33.7709885115516,obese,2.2,very active,2354,5178.8,PLAN H
+Male,174,54,No,No,No,17.8359096313912,underweight,2,active,1188,2376,PLAN F
+Female,180,59,Yes,Yes,Yes,18.2098765432099,underweight,2.2,very active,1298,2855.6,PLAN E
+Male,188,141,Yes,No,No,39.8936170212766,obese,1.6,sedentary,3102,4963.2,PLAN H
+Female,187,130,Yes,No,No,37.1757842660642,obese,1.6,sedentary,2860,4576,PLAN H
+Female,153,77,Yes,Yes,No,32.8933316245888,obese,1.8,lightly active,1694,3049.2,PLAN B
+Female,165,95,Yes,No,No,34.8943985307622,obese,2,active,2090,4180,PLAN H
+Female,178,79,Yes,No,Yes,24.9337204898371,overweight,2,active,1738,3476,PLAN C
+Female,163,154,No,No,No,57.9622868756822,obese,2.2,very active,3388,7453.6,PLAN H
+Female,150,97,Yes,No,No,43.1111111111111,obese,2,active,2134,4268,PLAN H
+Male,179,127,No,Yes,Yes,39.636715458319,obese,1.8,lightly active,2794,5029.2,PLAN H
+Male,165,62,Yes,Yes,Yes,22.77318640955,normal,1.6,sedentary,1364,2182.4,PLAN E
+Male,168,158,No,No,No,55.9807256235828,obese,1.6,sedentary,3476,5561.6,PLAN H
+Female,153,133,Yes,No,No,56.8157546242898,obese,1.8,lightly active,2926,5266.8,PLAN H
+Male,184,157,No,No,No,46.3728733459357,obese,1.6,sedentary,3454,5526.4,PLAN H
+Male,188,65,Yes,No,No,18.3906745133545,underweight,1.8,lightly active,1430,2574,PLAN A
+Female,166,153,Yes,No,Yes,55.5232980113224,obese,2,active,3366,6732,PLAN H
+Female,172,116,Yes,Yes,Yes,39.2103839913467,obese,2.2,very active,2552,5614.4,PLAN H
+Male,182,73,Yes,No,No,22.0384011592803,normal,1.6,sedentary,1606,2569.6,PLAN A
+Male,143,149,Yes,No,Yes,72.8641987383246,obese,2.2,very active,3278,7211.6,PLAN H
+Male,152,146,No,Yes,No,63.1925207756233,obese,1.6,sedentary,3212,5139.2,PLAN H
+Female,186,128,Yes,No,No,36.998496936062,obese,2.2,very active,2816,6195.2,PLAN H
+Male,159,140,No,Yes,Yes,55.3775562675527,obese,2,active,3080,6160,PLAN H
+Male,146,70,No,No,No,32.8391818352411,obese,1.6,sedentary,1540,2464,PLAN F
+Female,176,121,No,No,Yes,39.0625,obese,2.2,very active,2662,5856.4,PLAN H
+Female,146,101,No,No,No,47.3822480765622,obese,2.2,very active,2222,4888.4,PLAN H
+Male,159,145,Yes,No,Yes,57.355326134251,obese,1.6,sedentary,3190,5104,PLAN H
+Male,162,157,Yes,Yes,No,59.82319768328,obese,2.2,very active,3454,7598.8,PLAN H
+Female,172,90,No,No,No,30.4218496484586,obese,1.6,sedentary,1980,3168,PLAN F
+Female,169,121,Yes,Yes,Yes,42.3654633941389,obese,2,active,2662,5324,PLAN H
+Male,182,50,No,No,No,15.0947953145755,underweight,1.8,lightly active,1100,1980,PLAN F
+Female,183,79,No,No,No,23.5898354683627,normal,1.6,sedentary,1738,2780.8,PLAN F
+Male,176,77,No,No,Yes,24.8579545454545,normal,2,active,1694,3388,PLAN G
+Female,188,128,No,Yes,No,36.2154821186057,obese,2.2,very active,2816,6195.2,PLAN H
+Female,175,83,No,No,No,27.1020408163265,overweight,2,active,1826,3652,PLAN F
+Male,154,81,No,No,No,34.1541575307809,obese,2,active,1782,3564,PLAN F
+Female,184,147,No,No,Yes,43.4191871455577,obese,1.6,sedentary,3234,5174.4,PLAN H
+Male,179,123,Yes,No,No,38.3883149714428,obese,1.8,lightly active,2706,4870.8,PLAN H
+Male,152,132,No,No,Yes,57.1329639889197,obese,2.2,very active,2904,6388.8,PLAN H
+Male,179,56,Yes,Yes,No,17.4776068162667,underweight,2,active,1232,2464,PLAN B
+Female,145,141,Yes,No,Yes,67.0630202140309,obese,1.6,sedentary,3102,4963.2,PLAN H
+Female,181,80,No,No,No,24.4192790207869,normal,1.6,sedentary,1760,2816,PLAN F
+Male,158,127,Yes,Yes,No,50.8732574907867,obese,1.8,lightly active,2794,5029.2,PLAN H
+Female,188,99,No,Yes,No,28.0104119511091,overweight,1.6,sedentary,2178,3484.8,PLAN H
+Male,145,142,No,No,Yes,67.538644470868,obese,2,active,3124,6248,PLAN H
+Male,161,115,Yes,No,Yes,44.3655723158829,obese,2.2,very active,2530,5566,PLAN H
+Male,198,109,Yes,Yes,No,27.803285379043,overweight,1.6,sedentary,2398,3836.8,PLAN B
+Male,147,142,No,No,No,65.7133601740016,obese,1.8,lightly active,3124,5623.2,PLAN H
+Male,154,112,No,No,Yes,47.2255017709563,obese,1.8,lightly active,2464,4435.2,PLAN H
+Female,178,65,No,No,No,20.5150864789799,normal,2.2,very active,1430,3146,PLAN F
+Male,195,153,Yes,No,No,40.2366863905325,obese,2,active,3366,6732,PLAN H
+Female,167,79,Yes,Yes,Yes,28.3265803721898,overweight,2.2,very active,1738,3823.6,PLAN E
+Male,183,131,Yes,No,No,39.1173221057661,obese,2.2,very active,2882,6340.4,PLAN H
+Female,164,142,No,No,No,52.7959547888162,obese,1.8,lightly active,3124,5623.2,PLAN H
+Male,167,64,Yes,No,Yes,22.9481157445588,normal,1.6,sedentary,1408,2252.8,PLAN C
+Female,151,55,No,No,No,24.1217490460945,normal,2,active,1210,2420,PLAN F
+Female,147,107,Yes,Yes,Yes,49.5164052015364,obese,2,active,2354,4708,PLAN H
+Female,155,115,Yes,No,No,47.8668054110302,obese,2,active,2530,5060,PLAN H
+Female,172,108,Yes,No,No,36.5062195781504,obese,2.2,very active,2376,5227.2,PLAN H
+Female,142,86,Yes,Yes,No,42.6502678040071,obese,2,active,1892,3784,PLAN B
+Male,146,85,Yes,No,No,39.8761493713642,obese,2.2,very active,1870,4114,PLAN H
+Female,188,115,Yes,No,Yes,32.5373472159348,obese,1.6,sedentary,2530,4048,PLAN H
+Male,173,111,No,No,No,37.0877743994119,obese,1.6,sedentary,2442,3907.2,PLAN F
+Female,160,109,Yes,No,No,42.578125,obese,1.8,lightly active,2398,4316.4,PLAN H
+Male,187,80,No,Yes,Yes,22.8774057021934,normal,2,active,1760,3520,PLAN D
+Male,198,136,Yes,Yes,Yes,34.6903377206408,obese,2,active,2992,5984,PLAN H
+Female,179,150,No,No,No,46.8150182578571,obese,2.2,very active,3300,7260,PLAN H
+Female,164,59,Yes,No,No,21.9363474122546,normal,2,active,1298,2596,PLAN A
+Female,146,147,No,No,No,68.9622818540064,obese,1.8,lightly active,3234,5821.2,PLAN H
+Female,198,50,Yes,No,No,12.7538006325885,underweight,1.6,sedentary,1100,1760,PLAN A
+Female,170,53,Yes,No,Yes,18.3391003460208,underweight,1.6,sedentary,1166,1865.6,PLAN C
+Male,152,98,Yes,Yes,Yes,42.4168975069252,obese,1.8,lightly active,2156,3880.8,PLAN E
+Female,150,153,Yes,No,No,68,obese,1.6,sedentary,3366,5385.6,PLAN H
+Female,184,121,Yes,No,Yes,35.7396030245747,obese,1.8,lightly active,2662,4791.6,PLAN H
+Female,141,136,No,Yes,No,68.4070217795886,obese,2,active,2992,5984,PLAN H
+Male,170,95,No,No,No,32.8719723183391,obese,2,active,2090,4180,PLAN H
+Male,173,131,No,Yes,Yes,43.7702562731799,obese,1.6,sedentary,2882,4611.2,PLAN H

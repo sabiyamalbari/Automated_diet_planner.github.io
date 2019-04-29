@@ -1,0 +1,70 @@
+
+{% extends "diets/admin_base.html" %}
+
+{% block content %}
+
+    <br>
+
+    <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+        <h1 class="text-center">User Detail Table</h1>
+            <table class="table">
+                <thead>
+                    <tr>
+                        
+                        <th scope="col">USER</th>
+                        <th scope="col">AGE</th>
+                        <th scope="col">HEIGHT</th>
+                        <th scope="col">WEIGHT</th>
+                        <th scope="col">ACTIVITY LEVEL</th>
+                        <th scope="col">BMI</th>
+                        <th scope="col">Calories</th>
+                        <th scope="col">DIABETES</th>
+                        <th scope="col">HEART</th>
+                        <th scope="col">KIDNEY</th>
+                    </tr>
+                </thead>
+        
+                <tbody>
+                    {% if lll is null %}
+                        <tr>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                            <td>Null</td>
+                           
+                            
+                        </tr>
+
+                    {% else %}
+
+
+                        {% for dobj,dobjs,dobjss in lll %}
+                            <tr>
+                                <td>{{ dobj.users }}</td>
+                                <td>{{ dobj.age }}</td>
+                                <td>{{ dobj.height }}</td>
+                                <td>{{ dobj.weight }}</td>
+                                <td>{{ dobj.activity }}</td>
+                                <td>{{ dobjs.BMI }}</td>
+                                <td>{{ dobjss.defg }}</td>
+                                <td>{{ dobj.diabetes}}</td>
+                                <td>{{ dobj.heart}}</td>
+                                <td>{{ dobj.kidney}}</td>
+
+                            </tr>
+                                
+                        {% endfor %}
+                        
+                    {% endif %}
+
+                </tbody>
+            </table>
+    </div>
+
+{% endblock %}
